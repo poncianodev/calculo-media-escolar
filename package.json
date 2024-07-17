@@ -1,0 +1,14 @@
+{
+  "name": "calculo-media-escolar",
+  "version": "1.0.0",
+  "description": "Calcula a média anual de um aluno para monitorar o desempenho escolar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
